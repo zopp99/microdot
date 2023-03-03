@@ -1,4 +1,4 @@
-from microdot_asyncio import Microdot
+from microdot.asyncio import Microdot
 from microdot import send_file
 app = Microdot()
 
